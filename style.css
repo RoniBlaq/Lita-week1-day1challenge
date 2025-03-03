@@ -54,13 +54,13 @@ h1 p{
 }
 @media only screen and (min-width:1024px) {
 .stats{
-    font-size: 4em;
+    font-size: 3em;
     word-wrap: break-word;
    width: 10em;
     margin-left:2em;
 }
     .paragraph{
-    font-size:3em;
+    font-size:2em;
     /* margin-left:1em */
  } 
  .reels{
@@ -70,7 +70,7 @@ h1 p{
 
 @media only screen and (min-width:1440px) {
  .stats{
-    font-size:8em ;
-    margin-left: 15em;
+    font-size:6em ;
+    margin-left: 19em;
  }   
 } 
