@@ -64,7 +64,7 @@ h1 p{
     /* margin-left:1em */
  } 
  .reels{
-    font-size:1.4em
+    font-size:1em
  }
     .pics{
         width:30vw;
@@ -75,6 +75,6 @@ h1 p{
 @media only screen and (min-width:1440px) {
  .stats{
     font-size:7em ;
-    margin-left: 19em;
+    margin-left: 22em;
  }   
 } 
