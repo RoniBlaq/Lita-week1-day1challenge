@@ -57,7 +57,7 @@ h1 p{
     font-size: 3em;
     word-wrap: break-word;
    width: 10em;
-    margin-left:2em;
+    margin-left:3em;
 }
     .paragraph{
     font-size:2em;
@@ -70,7 +70,7 @@ h1 p{
 
 @media only screen and (min-width:1440px) {
  .stats{
-    font-size:6em ;
+    font-size:7em ;
     margin-left: 19em;
  }   
 } 
